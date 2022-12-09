@@ -1,3 +1,5 @@
 # Hello, world!
 
-I study netology
+I study in netology
+
+09/12/2022
